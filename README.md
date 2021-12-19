@@ -16,8 +16,11 @@ https://forum.unity.com/threads/photon-transform-view-not-syncing-players-positi
 https://forum.photonengine.com/discussion/11563/how-do-i-achieve-perfect-movement-sync-using-photon
 https://doc.photonengine.com/en-us/pun/current/demos-and-tutorials/pun-basics-tutorial/player-networking
 https://doc.photonengine.com/en-us/pun/current/demos-and-tutorials/pun-basics-tutorial/player-networking
+https://www.youtube.com/watch?v=93SkbMpWCGo&ab_channel=Blackthornprod
+https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys
+https://www.youtube.com/watch?v=bp2PiFC9sSs&ab_channel=Brackeys
 
-Youtube Upload Link: https://youtu.be/SSIbHOjVQiQ
+Youtube Upload Link: https://youtu.be/3HmuF-JAZXc
 
 Published git page: https://freedownloadableram.github.io/INFR3335U-F2021-FinalExamTemplate/
 
