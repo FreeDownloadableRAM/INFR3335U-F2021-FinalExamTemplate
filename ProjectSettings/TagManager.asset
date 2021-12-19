@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bullet
+  - Movement Joystick
+  - Cinemachine Camera
+  - Canvas Joystick
   layers:
   - Default
   - TransparentFX
